@@ -9,7 +9,8 @@ License: MIT + file LICENSE
 LazyData: true
 Authors@R: as.person(c("Matthew Pennell <mwpennell@gmail.com> [aut, cre]","Chris Muir <cdmuir@gmail.com> [aut]"))
 Maintainer: Matthew Pennell <mwpennell@gmail.com>
-  Imports:
+Imports:
+  tidyr,
   datastorr (>= 0.0.3)
 Suggests:
   testthat
